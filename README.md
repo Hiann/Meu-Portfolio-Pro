@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-funcionalidades">Funcionalidades</a> •
+  <a href="#-funcionalidades-principais">Funcionalidades</a> •
   <a href="#-design-system">Design System</a> •
   <a href="#-tecnologias">Tecnologias</a> •
   <a href="#-como-executar">Instalação</a> •
