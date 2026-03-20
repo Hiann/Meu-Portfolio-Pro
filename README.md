@@ -3,6 +3,12 @@
 # ⚡ DEV.SYS — Portfólio Profissional
 ### Identidade Digital com Design Técnico e Alta Performance
 
+<br>
+
+[![Acessar Site](https://img.shields.io/badge/🌍_ACESSAR_SITE_ONLINE-f97316?style=for-the-badge)](https://meu-portfolio-pro.vercel.app)
+
+<br>
+
 ![Next.js](https://img.shields.io/badge/next.js-16.1-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/nodemailer-smtp-22C55E?style=for-the-badge&logo=gmail&logoColor=white)
